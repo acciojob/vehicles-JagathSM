@@ -27,3 +27,4 @@ public class Boat implements WaterVehicle {
         return this.capacity;
     }
 }
+
